@@ -2,11 +2,9 @@
   "name": "nathanwooten/pathfind",
   "description": "An easy pathfinder.",
   "license": "MIT",
-  "require": [
-    {
-      "php": "^7.3||^8.0"
-    }
-  ],
+  "require": {
+      "php": "^8.0"
+  },
   "authors": [
     {
       "name": "Nathan Wooten",
