@@ -1,0 +1,16 @@
+{
+  "name": "nathanwooten/pathfind",
+  "description": "An easy pathfinder.",
+  "license": "MIT",
+  "require": {
+    "php": ">=8.0",
+  },
+  "authors": {
+    "name": {
+      "Nathan Wooten",
+    },
+    "homepage": {
+      "https://github.com/nathanwooten/pathfind"
+    }
+  }
+}
