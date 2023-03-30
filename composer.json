@@ -3,7 +3,7 @@
   "description": "An easy pathfinder.",
   "license": "MIT",
   "require": {
-      "php": "^8.0"
+      "php": "^7.3"
   },
   "authors": [
     {
